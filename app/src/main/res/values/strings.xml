@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taller_6_Enderson_Salas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_items">Lista artículos</string>
+    <string name="add_button">Agregar Artículos</string>
+    <string name="item_description">Descripción</string>
+    <string name="form">Agregar Artículos</string>
+    <string name="item_quantity">Cantidad</string>
+    <string name="save">Guardar</string>
+    <string name="borrar_items">Para borrar los artículos se debe mantener un click prolongado sobre el artículo </string>
+</resources>

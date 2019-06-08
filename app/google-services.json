@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "902581922824",
+    "firebase_url": "https://taller6-8f238.firebaseio.com",
+    "project_id": "taller6-8f238",
+    "storage_bucket": "taller6-8f238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902581922824:android:38d4733dc7e967c4",
+        "android_client_info": {
+          "package_name": "com.example.taller_6_enderson_salas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902581922824-8i8chj3011jknb9mrsbjg5pls6jl9085.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taller_6_enderson_salas",
+            "certificate_hash": "9bfa2d6a13a7d5390ce3b1dfb12a6daed60bb91f"
+          }
+        },
+        {
+          "client_id": "902581922824-7vaqc4p3t3477sgmb47gh9f3ld75sro4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFO9x-M_yllRZCdcPpAZ4cRB3Qltz7nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902581922824-7vaqc4p3t3477sgmb47gh9f3ld75sro4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
